@@ -101,7 +101,7 @@
                 android:layout_marginRight="6dp"
                 android:elevation="8dp"
                 app:el_duration="500"
-                app:el_expanded="true"
+                app:el_expanded="false"
                 app:el_parallax="1">
                 <ScrollView
                     android:layout_width="match_parent"
